@@ -1,0 +1,11 @@
+# Environment
+/.venv
+/stanford-rna-3d-prediction.code-workspace
+
+# Data
+/data
+
+# Misc
+/.DS_Store
+
+
